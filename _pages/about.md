@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Resarch Assistant </a>. Abu Dhabi, UAE. <a href='mailto:ltl2113@nyu.edu'>Contact Me</a>.
+subtitle: <a href='#'>Research Assistant, NYUAD </a>. Abu Dhabi, UAE. <a href='mailto:ltl2113@nyu.edu'>Contact Me</a>.
 
 profile:
   align: right
-  image: lukelo.jpg
+  image: lukelo.png
   image_circular: false
   more_info: >
     <p><strong>Phone:</strong> +971501078390</p>
@@ -23,6 +23,7 @@ I am **Lukelo Thadei Luoga**, a researcher and engineer focused on artificial in
 During my time at NYUAD, I engaged in extensive research on AI security and efficient multimodal large language models. My projects include developing **TinyLLaVA-Med**, a medical MLLM for resource-constrained settings, and creating **ViT4Purge**, a framework to identify and filter poisoned data using Vision Transformers.
 
 **Honors and Awards:**
+
 - NYU Founders' Day Award: Top 40% of baccalaureate candidates at NYU.
 - Latin Honors: Cum Laude, Top 15% of graduates in NYUAD’s Engineering division.
 
