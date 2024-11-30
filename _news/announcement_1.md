@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
-related_posts: false
+title: "Attended OpenAI Summit 2024"
+date: 2024-11-26
+categories: news
 ---
-
-A simple inline announcement.
+I attended the **OpenAI Summit 2024** held on **November 26-27, 2024**, at **The St. Regis Saadiyat Island Resort, Abu Dhabi**. The summit featured experts from **Google DeepMind**, **Meta Paris**, and other leading organizations discussing cutting-edge topics such as open-source AI models, gamification of LLMs, and practical-sized language models.

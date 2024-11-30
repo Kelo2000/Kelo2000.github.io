@@ -6,7 +6,7 @@ subtitle: <a href='#'>Resarch Assistant </a>. Abu Dhabi, UAE. <a href='mailto:lt
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: lukelo.jpg
   image_circular: false
   more_info: >
     <p><strong>Phone:</strong> +971501078390</p>

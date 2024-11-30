@@ -2,96 +2,87 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Lukelo Thadei Luoga
+    - name: Email
+      value: <a href="mailto:ltl2113@nyu.edu">ltl2113@nyu.edu</a>
+    - name: Phone
+      value: +971501078390
+    - name: Location
+      value: Abu Dhabi, United Arab Emirates
+    - name: LinkedIn
+      value: <a href="https://www.linkedin.com/in/lukelo-luoga-9bb941167/">Lukelo Luoga</a>
+    - name: GitHub
+      value: <a href="https://github.com/Kelo2000">Kelo2000</a>
     - name: Languages
-      value: English, German
+      value: Swahili (Native), English (Fluent)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Computer Engineering
+      institution: New York University Abu Dhabi (NYUAD), UAE
+      year: Sept 2020 - May 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - GPA: 3.871/4.0
+        - Relevant Courses: Computer Programming, Object-Oriented Programming, Data Structures and Algorithms, Computer Architecture, DevOps, Operating Systems, Embedded Systems, Applied Machine Learning, Probability and Statistics
+        - Honors and Awards:
+            - NYU Founders' Day Award: Top 40% of baccalaureate candidates.
+            - Latin Honors: Cum Laude (Top 15% of graduates in the Engineering division).
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Full-time Research Assistant
+      institution: Center for Interacting Urban Networks (CITIES), NYUAD
+      year: Oct 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed ViT4Purge, a Vision Transformer framework for identifying and filtering poisoned samples in datasets.
+        - Designed attention map-based classifiers for trigger-agnostic defenses in AI systems.
+        - Evaluated models on GTSRB, CIFAR-10, and ImageNet10, achieving superior performance.
+        - Prepared a research paper for submission to a leading AI conference.
+
+    - title: Engineering Capstone Design Project
+      institution: NYUAD
+      year: Aug 2023 - July 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Developed TinyLLaVA-Med, a 1.5B-parameter medical MLLM optimized for low-resource environments.
+        - Introduced quantized model variants, achieving significant memory efficiency improvements.
+        - Presented findings at IEEE ICIP 2024 and IEEE-EMBS BHI 2024 conferences.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Research Assistant
+      institution: C2SMARTER, NYU Tandon School of Engineering, New York, USA
+      year: June 2022 - Aug 2023
       description:
+        - Integrated SUMO with CARLA for dynamic traffic simulations, enhancing pedestrian safety.
+        - Developed adaptive traffic signal systems and trajectory prediction algorithms.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Line Following Robot Competition
+      year: Sept 2023 - Dec 2023
+      description:
+        - Implemented computer vision techniques for NVIDIA Jetbot AI to autonomously follow a black line.
+
+    - title: NYUAD Robosub Competition Team
+      year: Jan 2022 - Aug 2022
+      description:
+        - Evaluated YOLOv3, YOLOv4 Tiny, and MobileNetV2-SSD for underwater object detection.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NYU Founders' Day Award
+        - Latin Honors: Cum Laude
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Second place for a poster on Urban Work Zone Detection at the ITS-NY Annual Meeting
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Programming & Software: C++, Python, MATLAB, React, Node.js, MongoDB, SQL, PyTorch, Tensorflow, CARLA, SUMO
+    - Tools: Unity 3D, Blender, Adobe Premiere Pro
+    - Languages: Swahili (Native), English (Fluent)
