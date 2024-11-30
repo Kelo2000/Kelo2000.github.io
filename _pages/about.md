@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Resarch Assistant </a>. Abu Dhabi, UAE. <a href='mailto:ltl2113@nyu.edu'>Contact Me</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><strong>Phone:</strong> +971501078390</p>
+    <p><strong>Address:</strong> Abu Dhabi, United Arab Emirates</p>
+    <p><strong>Email:</strong> <a href='mailto:ltl2113@nyu.edu'>ltl2113@nyu.edu</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Lukelo Thadei Luoga**, a researcher and engineer focused on artificial intelligence, autonomous systems, and their applications in healthcare and transportation. I graduated with a **B.S. in Computer Engineering** from **New York University Abu Dhabi (NYUAD)**, achieving a **GPA of 3.871/4.0**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my time at NYUAD, I engaged in extensive research on AI security and efficient multimodal large language models. My projects include developing **TinyLLaVA-Med**, a medical MLLM for resource-constrained settings, and creating **ViT4Purge**, a framework to identify and filter poisoned data using Vision Transformers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Honors and Awards:**
+- NYU Founders' Day Award: Top 40% of baccalaureate candidates at NYU.
+- Latin Honors: Cum Laude, Top 15% of graduates in NYUAD’s Engineering division.
+
+For more details on my work, visit the [Publications](/al-folio/publications/) section. Connect with me via [LinkedIn](https://www.linkedin.com/in/lukelo-luoga-9bb941167/) or [GitHub](https://github.com/Kelo2000).
